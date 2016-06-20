@@ -5,4 +5,4 @@
 // @include     *://scratch.mit.edu/user/*
 // @version     0.1
 // ==/UserScript==
-document.getElementsByClassName("location")[0].contentEditabe = true;
+document.getElementsByClassName("location")[0].contentEditable = true;
